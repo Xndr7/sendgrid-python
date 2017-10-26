@@ -1,5 +1,5 @@
 <!-- 
-Please explain WHAT you changed and WHY. 
+Please explain WHAT you changed WHY. 
 
 The title should be descriptive, for example:
 
@@ -22,11 +22,11 @@ Fill out this form in the body:
 
 Make sure all of these items are complete, or else the PR will be ineligible for a code review.
 
-- [ ] Code passes all existing [tests](https://github.com/sendgrid/open-source-library-data-collector/tree/master/test)
-- [ ] Any new functionality added includes new unit tests in [`tests/test.py`](https://github.com/sendgrid/open-source-library-data-collector/blob/master/test/test.py)
+- [ ] Code passes all existing [tests](https://github.com/sendgrid/sendgrid-python/tree/master/test)
+- [ ] Any new functionality added includes new unit tests in [`tests`](https://github.com/sendgrid/sendgrid-python/tree/master/test)
 - [ ] Create or update example code to show the new functionality in action.
-- [ ] All code, branch, and git naming and style conventions are followed (see [`CONTRIBUTING.md`](https://github.com/sendgrid/open-source-library-data-collector/blob/master/CONTRIBUTING.md#style-guidelines--naming-conventions))
-- [ ] Feature branch has been rebased off of the latest `master` branch. ( see [`CONTRIBUTING.md`](https://github.com/sendgrid/open-source-library-data-collector/blob/master/CONTRIBUTING.md#creating-a-pull-request) ).
+- [ ] All code, branch, and git naming and style conventions are followed (see [`CONTRIBUTING.md`](https://github.com/sendgrid/sendgrid-python/blob/master/CONTRIBUTING.md#style-guidelines--naming-conventions))
+- [ ] Feature branch has been rebased off of the latest `master` branch. ( see [`CONTRIBUTING.md`](https://github.com/sendgrid/sendgrid-python/blob/master/CONTRIBUTING.md#creating-a-pull-request) ).
 
 If you have questions, please send an email [Sendgrid](mailto:dx@sendgrid.com), or file a Github Issue in this repository.
 
